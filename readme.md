@@ -1,4 +1,4 @@
-###  Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution (WACV 2023)
+###  Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution (WACV 2023) - Official Repo
 
 Mariana-Iuliana Georgescu, Radu Tudor Ionescu, Andreea-Iuliana Miron, Olivian Savencu, Nicolae-Catalin Ristea, Nicolae Verga and Fahad Shahbaz Khan.
 
