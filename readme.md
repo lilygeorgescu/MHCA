@@ -1,8 +1,8 @@
-###  Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution
+###  Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution (WACV 2023)
 
 Mariana-Iuliana Georgescu, Radu Tudor Ionescu, Andreea-Iuliana Miron, Olivian Savencu, Nicolae-Catalin Ristea, Nicolae Verga and Fahad Shahbaz Khan.
 
-##### 🆕  This is the official repository of "Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution".
+##### 🆕  This is the official repository of the "Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution" paper accepted at WACV 2023.
 
 
 ### 📜 Arxiv Link: https://arxiv.org/abs/2204.04218
@@ -25,9 +25,9 @@ We release the MHCA building block.
 ### 🚀 Results and trained models.
 # 🔜
 
-
 ### 🔨 Installation
 # 🔜
+
 ### 🖊Citation
 Please cite our work if you use any material released in this repository.
 ```
