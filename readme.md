@@ -12,7 +12,10 @@ Mariana-Iuliana Georgescu, Radu Tudor Ionescu, Andreea-Iuliana Miron, Olivian Sa
 We propose a novel multimodal multi-head convolutional attention module for super-resolution. **MHCA** is a spatial-channel attention module that **can be integrated into any neural network at any layer**.
 We are also the first to perform medical image superresolution using a multimodal low-resolution input.
 
-![pipeline](imgs/overview.png) 
+ 
+<img src="https://raw.githubusercontent.com/lilygeorgescu/MHCA/main/imgs/overview.png" width="400" >
+ 
+
 ### 🔒 License
 The present data set is released under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
