@@ -17,7 +17,7 @@ We are also the first to perform medical image superresolution using a multimoda
  
 
 ### 🔒 License
-The present data set is released under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+The present code is released under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
 ### 💻 Code
 We release the MHCA building block.
