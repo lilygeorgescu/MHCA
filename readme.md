@@ -13,7 +13,7 @@ We propose a novel multimodal multi-head convolutional attention module for supe
 We are also the first to perform medical image superresolution using a multimodal low-resolution input.
 
  
-<img src="https://raw.githubusercontent.com/lilygeorgescu/MHCA/main/imgs/overview.png" width="800" >
+<img src="https://raw.githubusercontent.com/lilygeorgescu/MHCA/main/imgs/overview.png" width="600" >
  
 
 ### 🔒 License
